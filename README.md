@@ -1,1 +1,1 @@
-![Screenshot](Trip_Avg_Temp.jpg)
+![Screenshot](Resources/Trip_Avg_Temp.jpg)
